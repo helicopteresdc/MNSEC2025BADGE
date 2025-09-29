@@ -3,8 +3,10 @@ MNSEC2025 мэдээллийн аюулгүй байдлын хурлын electo
 <br>
 <br> <img height = "600" src="User guide Image/2.png"/>
 <br> <img height = "600" src="User guide Image/3.png"/><br>
+
 * Badge-тэй холбоотой Video хичээлийг 
 <a href="https://www.youtube.com/@BeelogTech">Beelog Tech Youtube Channel</a>-с аваарай.
+* Badge-ээ онлайн болгохын тулд default SSID болох WIFI SSID: Mncert2025, Password: Mncert2025-р Access Point цацаад WIFI-д холбоорой.
 * Name Card-аа бөглөх
 <a href="https://103.168.179.124/">Link</a>  - Эхлээд Badge- аа онлайн болгоно шүү
 * ESP32C3 Flash Download Tool: <a href="https://dl.espressif.com/public/flash_download_tool.zip">Link</a>
