@@ -11,6 +11,7 @@ MNSEC2025 мэдээллийн аюулгүй байдлын хурлын electo
 <a href="https://103.168.179.124/">Link</a>  - Эхлээд Badge- аа онлайн болгоно шүү
 * ESP32C3 Flash Download Tool: <a href="https://dl.espressif.com/public/flash_download_tool.zip">Link</a>
 * ESP32C3 Flash Download Tool User Guide: <a href="https://docs.espressif.com/projects/esp-test-tools/en/latest/esp32c3/production_stage/tools/flash_download_tool.html">Link</a>
+* MNSEC2025-н Badge-ны Firmware Binary File: <a href="Firmware/MNSEC2025/MNSEC2025.bin">Link</a>
 
 * Arduino IDE суулгах: <a href="https://www.arduino.cc/en/software">Эндээс</a>
 * Arduino IDE-д Espressif Board-н сан суулгах: <a href="https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions">Эндээс</a>
